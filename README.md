@@ -39,6 +39,6 @@ In dieser Übung werden wir Math.min und Math.max kennenlernen.
 
 ---
 
-https://github.com/Ninni-cfm/day53_Lev1_js-vertiefung_math
+_Source:_ https://github.com/Ninni-cfm/day53_Lev1_js-vertiefung_math
 
-https://ninni-cfm.github.io/day53_Lev1_js-vertiefung_math/
+_Demo:_ https://ninni-cfm.github.io/day53_Lev1_js-vertiefung_math/
